@@ -29,16 +29,20 @@ will briefly introduce the method below:
 
 **Organizational Chart Demo (Tableau)**
 
+![Fig. 1](https://github.com/yipinlyu/Tableau/blob/master/demo.png)
+![Fig. 1](https://github.com/yipinlyu/Tableau/blob/master/demo2.png)
+![Fig. 1](https://github.com/yipinlyu/Tableau/blob/master/demo3.png)
+
 Because of the privacy concern, I am not likely to show the detailed figures
 that contain the full names of vendors, team leaders and supervisors. Hence, as
-Fig. 3 indicates, I created a demo of a five-level organizational chart to
+Fig. 1 indicates, I created a demo of a five-level organizational chart to
 present the result. The left figure shows the overall organizational chart for
 both a and b. The middle and the right figures illustrate the filtered
 organizational chart for a and b. These figures look good and can be updated in
 real-time, because I can connect the Tableau to the IBM DB2 Warehouse database
 by using the SQL query.
 
-However, we can find the main weakness of this method in Fig. 3. The node d has
+However, we can find the main weakness of this method in Fig. 1. The node d has
 two supervisor nodes, which means that some nodes under d’s management work for
 a, and some for b. But the middle and the right graphs present all the nodes
 under d’s management. The reason is that when I processed the input dataset, I
