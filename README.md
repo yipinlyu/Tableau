@@ -29,9 +29,10 @@ will briefly introduce the method below:
 
 **Organizational Chart Demo (Tableau)**
 
-![Fig. 1](https://github.com/yipinlyu/Tableau/blob/master/demo.png)
-![Fig. 1](https://github.com/yipinlyu/Tableau/blob/master/demo2.png)
-![Fig. 1](https://github.com/yipinlyu/Tableau/blob/master/demo3.png)
+<img width=400px height=300px src="https://github.com/yipinlyu/Tableau/blob/master/demo.png"></img> 
+<img width=400px height=300px src="https://github.com/yipinlyu/Tableau/blob/master/demo2.png"></img> 
+<img width=400px height=300px src="https://github.com/yipinlyu/Tableau/blob/master/demo3.png"></img> 
+
 
 Because of the privacy concern, I am not likely to show the detailed figures
 that contain the full names of vendors, team leaders and supervisors. Hence, as
