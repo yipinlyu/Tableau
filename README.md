@@ -29,9 +29,9 @@ will briefly introduce the method below:
 
 **Organizational Chart Demo (Tableau)**
 
-<img width=400px height=300px src="https://github.com/yipinlyu/Tableau/blob/master/demo.png"></img> 
-<img width=400px height=300px src="https://github.com/yipinlyu/Tableau/blob/master/demo2.png"></img> 
-<img width=400px height=300px src="https://github.com/yipinlyu/Tableau/blob/master/demo3.png"></img> 
+<img width=300px height=300px src="https://github.com/yipinlyu/Tableau/blob/master/demo.png"></img> 
+<img width=300px height=300px src="https://github.com/yipinlyu/Tableau/blob/master/demo2.png"></img> 
+<img width=300px height=300px src="https://github.com/yipinlyu/Tableau/blob/master/demo3.png"></img> 
 
 
 Because of the privacy concern, I am not likely to show the detailed figures
